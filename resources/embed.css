@@ -414,7 +414,7 @@
 		}
 
 
-		table.counts, table.creteria {
+		table.counts, table.criteria {
 			border-collapse: collapse;
 			border-left: 1px solid #111;
 			border-top: 1px solid #111;
@@ -423,15 +423,15 @@
 			margin: 0 auto;
 			width: 60%;
 		}
-		table.counts caption, table.creteria caption {
+		table.counts caption, table.criteria caption {
 			font-style: normal;
 		}
-		table.counts th, table.counts td, table.creteria th, table.creteria td {
+		table.counts th, table.counts td, table.criteria th, table.criteria td {
 			border-right: 1px solid #111;
 			border-bottom: 1px solid #111;
 			text-align: center;
 		}
-		table.creteria tbody td {
+		table.criteria tbody td {
 			padding: .5em;
 			text-align: left;
 		}
